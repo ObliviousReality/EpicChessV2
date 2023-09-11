@@ -1,0 +1,10 @@
+White = 1
+Black = 2
+
+
+Pawn = 0
+Horse = 1
+Castle = 2
+Bishop = 3
+Queen = 4
+King = 5
